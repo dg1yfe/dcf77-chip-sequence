@@ -3,7 +3,7 @@
  Name        : dcf77-chip-seq.c
  Author      : Felix Erckenbrecht
  Version     :
- Copyright   : BSD
+ Copyright   : Public Domain
  Description : Calculates and prints DCF77 chip-sequence
  ============================================================================
  */
